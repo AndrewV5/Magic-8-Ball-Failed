@@ -14,6 +14,7 @@
 		DCDA16492143082F00B2E68A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCDA16472143082F00B2E68A /* LaunchScreen.storyboard */; };
 		DCDA16542143082F00B2E68A /* Magic_8_BallTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCDA16532143082F00B2E68A /* Magic_8_BallTests.swift */; };
 		DCDA165F2143082F00B2E68A /* Magic_8_BallUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCDA165E2143082F00B2E68A /* Magic_8_BallUITests.swift */; };
+		DCDA166D2143085600B2E68A /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = DCDA166C2143085600B2E68A /* readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		DCDA165A2143082F00B2E68A /* Magic 8 BallUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Magic 8 BallUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCDA165E2143082F00B2E68A /* Magic_8_BallUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Magic_8_BallUITests.swift; sourceTree = "<group>"; };
 		DCDA16602143082F00B2E68A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCDA166C2143085600B2E68A /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		DCDA16322143082D00B2E68A = {
 			isa = PBXGroup;
 			children = (
+				DCDA166C2143085600B2E68A /* readme.md */,
 				DCDA163D2143082D00B2E68A /* Magic 8 Ball */,
 				DCDA16522143082F00B2E68A /* Magic 8 BallTests */,
 				DCDA165D2143082F00B2E68A /* Magic 8 BallUITests */,
@@ -231,6 +234,7 @@
 			files = (
 				DCDA16492143082F00B2E68A /* LaunchScreen.storyboard in Resources */,
 				DCDA16462143082F00B2E68A /* Assets.xcassets in Resources */,
+				DCDA166D2143085600B2E68A /* readme.md in Resources */,
 				DCDA16442143082D00B2E68A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
